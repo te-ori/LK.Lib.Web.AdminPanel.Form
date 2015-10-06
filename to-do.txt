@@ -1,0 +1,3 @@
+change list typed inputs
+	-Change AdminFormAttribute's param 'options' from list to string
+	-Create dictionary like HtmlGenerators, labeled items.

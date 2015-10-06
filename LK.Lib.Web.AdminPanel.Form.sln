@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LK.Localization", "LK.Local
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{974CDE52-23A5-412D-A9D1-4FEA7B415648}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_resources", "_resources", "{E90D3EDB-E6B8-4469-A4F1-FF56EA9F9D63}"
+	ProjectSection(SolutionItems) = preProject
+		to-do.txt = to-do.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
