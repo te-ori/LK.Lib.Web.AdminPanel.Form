@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LK.Lib.Web.AdminPanel.Form", "LK.Lib.Web.AdminPanel.Form\LK.Lib.Web.AdminPanel.Form.csproj", "{3AC50D30-49A3-4B21-833F-44CCC7DA3739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LK.Localization", "LK.Localization\LK.Localization.csproj", "{6D0944E3-6146-4094-8E9D-99CA564F3369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{974CDE52-23A5-412D-A9D1-4FEA7B415648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC50D30-49A3-4B21-833F-44CCC7DA3739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC50D30-49A3-4B21-833F-44CCC7DA3739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC50D30-49A3-4B21-833F-44CCC7DA3739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC50D30-49A3-4B21-833F-44CCC7DA3739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0944E3-6146-4094-8E9D-99CA564F3369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0944E3-6146-4094-8E9D-99CA564F3369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0944E3-6146-4094-8E9D-99CA564F3369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0944E3-6146-4094-8E9D-99CA564F3369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974CDE52-23A5-412D-A9D1-4FEA7B415648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974CDE52-23A5-412D-A9D1-4FEA7B415648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974CDE52-23A5-412D-A9D1-4FEA7B415648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974CDE52-23A5-412D-A9D1-4FEA7B415648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
